@@ -1,16 +1,20 @@
-## Hi there 👋
+# I'm Caio Alfer
 
-<!--
-**caioalfer/caioalfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Developer** and **UI/UX Designer**, focused on creating modern, functional, and well-structured web applications.
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="./gif.gif" width="600" alt="Cubo Animado" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I work primarily with **Node.js, JavaScript/TypeScript, React, Next.js, and .NET**, developing solutions that combine performance, organization, and a great user experience.
+- Beyond development, I have a strong interest in **software architecture, user experience, and Computer Science fundamentals**, always striving to build solid, scalable, and maintainable systems.
+- I value clarity, discipline, and consistency in the development process, viewing technology as a tool to create durable and relevant solutions.
+- I am always seeking technical evolution, new challenges, and projects that require responsibility, strategic vision, and attention to detail.
+
+## Technologies & Tools
+
+- **Languages:** JavaScript, TypeScript, C#
+- **Frontend:** React, Next.js, HTML, CSS (UI/UX Design)
+- **Backend:** Node.js, .NET
