@@ -4,8 +4,6 @@ I'm a **Full Stack Developer** and **UI/UX Designer**, focused on creating moder
 
 <div align="center"><img width="500" height="370" alt="gif" src="https://github.com/user-attachments/assets/b5971668-52f2-4a63-b308-0d61923068eb" />
 
-  <img src="./gif.gif" width="600" alt="Cubo Animado" />
-</div>
 
 ## About Me
 
