@@ -1,3 +1,5 @@
+<div align="center">
+
 # Caio Alfer
 
 Frontend Developer and UI/UX Designer focused on building modern web 
