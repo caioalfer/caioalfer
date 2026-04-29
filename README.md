@@ -1,19 +1,23 @@
-# I'm Caio Alfer
+# Caio Alfer
 
-I'm a **Full Stack Developer** and **UI/UX Designer**, focused on creating modern, functional, and well-structured web applications.
+Frontend Developer and UI/UX Designer focused on building modern web 
+applications, dashboards, and institutional websites.
 
-<div align="center"><img width="500" height="370" alt="gif" src="https://github.com/user-attachments/assets/b5971668-52f2-4a63-b308-0d61923068eb" />
+<img width="500" height="370" alt="gif" src="https://github.com/user-attachments/assets/ef1b4ecd-5df5-4ec4-8fae-69577391cec4" />
 
+## About
 
-## About Me
+I work mainly with **React**, **Next.js**, and **TypeScript** — delivering 
+interfaces that are well-crafted, consistent, and technically sound.
+I care about clean architecture, component structure, and long-term 
+maintainability.
 
-- I work primarily with **Node.js, JavaScript/TypeScript, React, Next.js, and .NET**, developing solutions that combine performance, organization, and a great user experience.
-- Beyond development, I have a strong interest in **software architecture, user experience, and Computer Science fundamentals**, always striving to build solid, scalable, and maintainable systems.
-- I value clarity, discipline, and consistency in the development process, viewing technology as a tool to create durable and relevant solutions.
-- I am always seeking technical evolution, new challenges, and projects that require responsibility, strategic vision, and attention to detail.
+Currently expanding into back-end development with **Node.js** and **.NET**, 
+working toward becoming a well-rounded fullstack engineer with a long-term 
+focus on software architecture and DevOps.
 
-## Technologies & Tools
+## Technologies
 
-- **Languages:** JavaScript, TypeScript, C#
-- **Frontend:** React, Next.js, HTML, CSS (UI/UX Design)
-- **Backend:** Node.js, .NET
+**Frontend:** React · Next.js · TypeScript · HTML · CSS  
+**Backend:** Node.js · .NET · C#  
+**Design:** UI/UX · Figma
